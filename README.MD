@@ -17,6 +17,8 @@
 Sensor  mAccelerometerSensor = manager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 ```
 3. 注册监听
+
+
 ```
 //注册加速度传感器;
 第一个参数：SensorEventListener listener--传感器事件监听
